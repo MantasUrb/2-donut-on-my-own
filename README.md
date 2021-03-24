@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at https://mantasurb.github.io/2-donut-on-my-own/
 
-Design: [Sherlock](https://unblast.com/wp-content/uploads/2019/06/404-Error-Page-Donut-Template.jpg)
+Design: [Donut](https://unblast.com/wp-content/uploads/2019/06/404-Error-Page-Donut-Template.jpg)
 
 ## Project features
 
