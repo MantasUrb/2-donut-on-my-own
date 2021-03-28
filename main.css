@@ -47,12 +47,13 @@ body * {
     cursor: pointer;
     transition: all 0.5s;
     display: inline-block;
-    width: 282px;
-    margin-left: calc((100% - 282px) / 2);
-    margin-right: calc((100% - 282px) / 2);
+    width: 306px;
+    margin-left: calc((100% - 306px) / 2);
+    margin-right: calc((100% - 306px) / 2);
 }
 
 
 .link:hover {
     background-color:#92D2B0;
     color: #5B352C;
+}
