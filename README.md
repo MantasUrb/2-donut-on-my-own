@@ -22,4 +22,4 @@ Design: [Donut](https://unblast.com/wp-content/uploads/2019/06/404-Error-Page-Do
 
 ## Authors
 
-[Mantas](https://github.com/MantasUrb)
+[Mantas U.](https://github.com/MantasUrb)
